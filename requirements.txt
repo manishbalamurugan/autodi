@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+geopandas
+shapely
+pyproj
+ollama
+python-multipart
+pydantic_settings
